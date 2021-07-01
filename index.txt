@@ -2,6 +2,6 @@
    <body>
       <h1> Minha pagina HTML</h1>h1>
       h1>
-      <h1> Outro conteudo adicionado para gerar problema<\h2>
+      <h2> Minha segunda pagina<\h2>
    </body>
 </html>

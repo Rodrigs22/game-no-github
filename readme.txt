@@ -1,0 +1,1 @@
+Quanto ao curso de GIT, me senti perdido no começo devido ao diferente sistema operacional, mas agora eu já to conseguindo acompanhar melhor.

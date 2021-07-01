@@ -1,1 +1,1 @@
-Quanto ao curso de GIT, me senti perdido no começo devido ao diferente sistema operacional, mas agora eu já to conseguindo acompanhar melhor.
+Quanto ao curso de GIT, me senti perdido no começo devido ao diferente sistema operacional, mas agora eu já to conseguindo acompanhar melhor. Tambpem tem o fato do professor passar por cima dos detalhes e não explicar direito !
